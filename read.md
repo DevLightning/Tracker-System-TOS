@@ -2,7 +2,7 @@
 
 For everyone unfamiliar with the term, here is the definition: 
 
-What is the meaning of terms of service?
+> What is the meaning of terms of service?
 Terms of service (also known as terms of use and terms and conditions, commonly abbreviated as TOS or ToS, ToU or T&C) 
 are the legal agreements between a service provider and a person who wants to use that service. 
 The person must agree to abide by the terms of service in order to use the offered service.
