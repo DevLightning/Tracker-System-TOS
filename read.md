@@ -8,6 +8,7 @@ are the legal agreements between a service provider and a person who wants to us
 The person must agree to abide by the terms of service in order to use the offered service.
 
 ACCOUNT
+
 In tracker system you can have your own account. 
 This account can help us store data about you and help keep your stats.
 Our privacy and politics terms allow you to request your data to be removed/deleted permanent by simply contacting us. 
