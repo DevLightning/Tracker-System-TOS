@@ -26,4 +26,4 @@ Our privacy and politics terms allow you to request your data to be removed/dele
 We keep your data safe. Everything that is private or confidential is only being accessed by the owner of the bot with legal reasons only.
 We do not store any confidential data. Meaning that we only store public data, making us a transparent service.
 
-- [ Klick here for our website ] https://tracker-system.net
+- [ ] https://tracker-system.net
